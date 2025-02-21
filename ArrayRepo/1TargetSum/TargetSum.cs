@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ArrayRepo.TargetSum;
 
 namespace ArrayRepo.TargetSum
 {
@@ -29,3 +30,9 @@ namespace ArrayRepo.TargetSum
         }
     }
 }
+
+//TargetSum sum = new TargetSum();
+//var a = sum.Sum(9);
+
+
+
